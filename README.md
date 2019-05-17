@@ -1,3 +1,3 @@
 # war_openshift
 
-# Weekly Audit Site, Janus Dashboard and Report
+# Half Monthly Audit Site, Janus Dashboard and Report
